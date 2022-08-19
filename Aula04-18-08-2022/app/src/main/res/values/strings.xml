@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aula04-18-08-2022</string>
+    <string name="digite_url">Digite uma URL</string>
+    <string name="abrir">Abrir</string>
+    <string name="numero_poke_invalido">Número de Pokemon inválido!</string>
+    <string name="apenas_poke_gen_1">Apenas pokemons da primeira geração (1..151)</string>
+    <string name="atencao">Atenção</string>
+</resources>

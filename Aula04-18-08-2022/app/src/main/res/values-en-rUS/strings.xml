@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aula04-18-08-2022</string>
+    <string name="abrir">Open</string>
+    <string name="digite_url">Enter a URL</string>
+    <string name="numero_poke_invalido">Invalid Pokemon number!</string>
+    <string name="apenas_poke_gen_1">Only first generation pokemons (1..151)</string>
+    <string name="atencao">Attention</string>
+</resources>
