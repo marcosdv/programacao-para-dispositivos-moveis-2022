@@ -9,10 +9,12 @@
 - [x] Aula 01 - Introdução ao Android - Android Studio e Emuladores - 28/07/2022
 - [x] Aula 02 - Criando meu primeiro App - Etanol x Gasolina - 04/08/2022
 - [x] Aula 03 - Criação de novas telas (activitys); Navegação entre telas - 11/08/2022
+- [x] Aula 04 - WebView; Manifest - Permissões; Internacionalização - 18/08/2022
+- [ ] Aula 05 - Consumindo uma API REST - JSON - 25/08/2022
 
 ### Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas foram usadas na construção dos projetos:
 
 - [Android](https://developer.android.com/)
 - [Android Studio](https://developer.android.com/studio)
