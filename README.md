@@ -10,7 +10,8 @@
 - [x] Aula 02 - Criando meu primeiro App - Etanol x Gasolina - 04/08/2022
 - [x] Aula 03 - Criação de novas telas (activitys); Navegação entre telas - 11/08/2022
 - [x] Aula 04 - WebView; Manifest - Permissões; Internacionalização - 18/08/2022
-- [ ] Aula 05 - Consumindo uma API REST - JSON - 25/08/2022
+- [x] Aula 05 - Consumindo uma API REST - JSON utilizando Threads - 25/08/2022
+- [ ] Aula 06 - Consumindo uma API REST - JSON utilizando Threads; Carrergando Imagens da Web via Threads - 01/09/2022
 
 ### Tecnologias
 
