@@ -12,7 +12,8 @@
 - [x] Aula 04 - WebView; Manifest - Permissões; Internacionalização - 18/08/2022
 - [x] Aula 05 - Consumindo uma API REST - JSON utilizando Threads - 25/08/2022
 - [x] Aula 06 - Consumindo uma API REST - JSON utilizando Threads; ListView - 01/09/2022
-- [ ] Aula 07 - Consumindo uma API REST - JSON utilizando Threads; ListView; Carrergando Imagens da Web via Threads - 08/09/2022
+- [x] Aula 07 - Consumindo uma API REST - JSON utilizando Threads; ListView; Carrergando Imagens da Web via Threads - 08/09/2022
+- [ ] Aula 08 - 15/09/2022
 
 ### Tecnologias
 
