@@ -14,8 +14,9 @@
 - [x] Aula 06 - Consumindo uma API REST - JSON utilizando Threads; ListView - 01/09/2022
 - [x] Aula 07 - Consumindo uma API REST - JSON utilizando Threads; ListView; Carrergando Imagens da Web via Threads - 08/09/2022
 - [x] Aula 08 - Mensagens do tipo AlertDialog e validação de campos - 15/09/2022
-- [x] Aula 09 - Criando App com Banco de Dados SQLite - 29/09/2022
-- [ ] Aula 10 - Criando App com Banco de Dados SQLite - 06/10/2022
+- [x] Aula 09 - Criando App com Banco de Dados SQLite - Parte 01 - 29/09/2022
+- [x] Aula 10 - Criando App com Banco de Dados SQLite - Parte 02 - 06/10/2022
+- [ ] Aula 11 - Criando App com Banco de Dados SQLite - Parte 03 - 13/10/2022
 
 ### Tecnologias
 
