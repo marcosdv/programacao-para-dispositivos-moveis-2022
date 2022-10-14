@@ -16,7 +16,8 @@
 - [x] Aula 08 - Mensagens do tipo AlertDialog e validação de campos - 15/09/2022
 - [x] Aula 09 - Criando App com Banco de Dados SQLite - Parte 01 - 29/09/2022
 - [x] Aula 10 - Criando App com Banco de Dados SQLite - Parte 02 - 06/10/2022
-- [ ] Aula 11 - Criando App com Banco de Dados SQLite - Parte 03 - 13/10/2022
+- [x] Aula 11 - Criando App com Banco de Dados SQLite - Parte 03 - 13/10/2022
+- [ ] Aula 12 - Criando App com Banco de Dados SQLite - Parte 04 - 20/10/2022
 
 ### Tecnologias
 
