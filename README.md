@@ -18,6 +18,7 @@
 - [x] Aula 10 - Criando App com Banco de Dados SQLite - Parte 02 - 06/10/2022
 - [x] Aula 11 - Criando App com Banco de Dados SQLite - Parte 03 - 13/10/2022
 - [x] Aula 12 - Criando App com Banco de Dados SQLite - Parte 04 - 20/10/2022
+- [x] Aula 13 - Criando App para envar dados via GET para uma API Web utilizando Threads - 03/11/2022
 
 ### Tecnologias
 
